@@ -3,8 +3,8 @@
 **Cross-Coastal Housing Price Prediction Using Machine Learning**
 
 *Project Outputs:*
-1. [Final Blog Post](https://cjy-2001.github.io/cs451-blogs/posts/project-post/project-post.html)
-2. [Group Presentation](Jiayi & Bell - Housing Price Prediction.pdf)
+*1. [Final Blog Post](https://cjy-2001.github.io/cs451-blogs/posts/project-post/project-post.html)*
+*2. [Group Presentation](https://github.com/cjy-2001/cs451-housing-price/blob/main/Jiayi%20%26%20Bell%20-%20Housing%20Price%20Prediction.pdf)*
 
 ## Abstract
 
