@@ -2,6 +2,10 @@
 
 **Cross-Coastal Housing Price Prediction Using Machine Learning**
 
+*Project Outputs:*
+1. [Final Blog Post](https://cjy-2001.github.io/cs451-blogs/posts/project-post/project-post.html)
+2. [Group Presentation](Jiayi & Bell - Housing Price Prediction.pdf)
+
 ## Abstract
 
 This project aims to use machine learning techniques to analyze and predict housing prices in California and Boston, with a focus on understanding the similarities and differences in housing factors between the two places.
