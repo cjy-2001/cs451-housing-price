@@ -57,7 +57,7 @@ These datasets are publicly available and can be accessed through the following 
         Example features include housing prices, rental prices, city, state, number of bedrooms, etc.
         Alternative dataset: [Zillow Rent Index](https://www.kaggle.com/datasets/zillow/rent-index)
 
-## What We Will Learn
+## What We Learned
 
 ### Jiayi
 
