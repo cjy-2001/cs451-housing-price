@@ -1,10 +1,22 @@
 # CSCI 0451 Project
 
-**Cross-Coastal Housing Price Prediction Using Machine Learning**
+> Cross-Coastal Housing Price Prediction Using Machine Learning
 
-*Project Outputs:*
+**By:** Jiayi Chen & Bell Luo
+
+**Project Outputs:**
 1. *[Final Blog Post](https://cjy-2001.github.io/cs451-blogs/posts/project-post/project-post.html)*
 2. *[Group Presentation](https://github.com/cjy-2001/cs451-housing-price/blob/main/Jiayi%20%26%20Bell%20-%20Housing%20Price%20Prediction.pdf)*
+
+## Table of Contents
+- [Abstract](#abstract)
+- [Motivation and Question](#motivation-and-question)
+- [Planned Deliverables](#planned-deliverables)
+- [Resources Required](#resources-required)
+- [What We Learned](#what-we-learned)
+- [Risk Statement](#risk-statement)
+- [Ethics Statement](#ethics-statement)
+- [Acknowledgements](#acknowledgements)
 
 ## Abstract
 
@@ -114,13 +126,7 @@ Therefore, **some possible forms of bias**:
 - If housing price predictions are skewed towards/against certain demographics, this will negatively impact house-owners' ability to sell their houses for economic opportunity.
 - Mis-predictions may also deprive house-buyers or renters from their economic opportunity if they spent more on housing, or if their housing quality is subpar.
 
-## Tentative Timeline
-
-By the three-week check-in point, we plan to finish cleaning up our dataset and doing some preliminary data analysis through some interesting tables and graphs.
-
-In the remaining weeks, we plan to identify which algorithms to use, and actually implement those machine learning models.
-
 ## Acknowledgements
 
-This project proposal is written by Bell Luo and Jiayi Chen. We worked at the same time using the "Live Share" extension in VScode, so it is expected to only see one person's meaningful commits.
+This project proposal is written by Jiayi Chen and Bell Luo. We worked at the same time using the "Live Share" extension in VScode, so it is expected to only see one person's meaningful commits.
 
